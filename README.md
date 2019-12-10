@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link to the project  [my-voting-app](https://my-voting-app.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
